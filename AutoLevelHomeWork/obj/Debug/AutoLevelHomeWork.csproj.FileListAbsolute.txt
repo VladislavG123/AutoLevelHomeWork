@@ -1,0 +1,9 @@
+C:\Users\Vlad\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\bin\Debug\Database.mdf
+C:\Users\Vlad\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\bin\Debug\Database_log.ldf
+C:\Users\Vlad\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\bin\Debug\AutoLevelHomeWork.exe.config
+C:\Users\Vlad\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\bin\Debug\AutoLevelHomeWork.exe
+C:\Users\Vlad\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\bin\Debug\AutoLevelHomeWork.pdb
+C:\Users\Vlad\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\obj\Debug\AutoLevelHomeWork.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\obj\Debug\AutoLevelHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\obj\Debug\AutoLevelHomeWork.exe
+C:\Users\Vlad\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\obj\Debug\AutoLevelHomeWork.pdb
